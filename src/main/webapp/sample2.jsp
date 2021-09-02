@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-github sample
+github sample1
 </body>
 </html>
